@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=441900617518:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=441900617518:domainName=toot.camp:region=eu-central-1": {
+    "Id": "/hostedzone/Z035599334KI8O7ML07DA",
+    "Name": "toot.camp."
+  }
+}
